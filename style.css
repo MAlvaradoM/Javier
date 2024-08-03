@@ -1,0 +1,48 @@
+body { 
+    background-color: #789a;
+    width:auto;
+}
+
+h1 {
+    width: auto;
+    color: #666;
+    font-size: 56px;
+    background-color: #dd5;
+    
+}
+
+p {
+    font-size-adjust: none;
+    color:  #159b;
+    
+}
+
+video {
+    width: 280px;
+    background-attachment: fixed;
+}
+
+h2 {
+    width: auto;
+    margin-top:auto;
+    font-size:xx-large;
+}
+
+img {
+    width: auto;
+    padding-bottom: 20px;
+    margin-top: auto;
+    
+}
+ div {
+    width: 280px;
+    margin-bottom: 25px;
+    font-size: 25px;
+    
+ }
+
+ label {
+    font-family: 25px
+    color #555a;
+    
+ }
